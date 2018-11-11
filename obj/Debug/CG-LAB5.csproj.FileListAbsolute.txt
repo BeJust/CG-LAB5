@@ -1,0 +1,10 @@
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\bin\Debug\CG-LAB5.exe.config
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\bin\Debug\CG-LAB5.exe
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\bin\Debug\CG-LAB5.pdb
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\obj\Debug\CG-LAB5.csprojAssemblyReference.cache
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\obj\Debug\CG_LAB5.MainWindow.resources
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\obj\Debug\CG_LAB5.Properties.Resources.resources
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\obj\Debug\CG-LAB5.csproj.GenerateResource.cache
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\obj\Debug\CG-LAB5.csproj.CoreCompileInputs.cache
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\obj\Debug\CG-LAB5.exe
+C:\2 курс\Компьютерная графика\CG-LAB5\CG-LAB5\obj\Debug\CG-LAB5.pdb
